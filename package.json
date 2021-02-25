@@ -1,0 +1,23 @@
+{
+  "name": "mochaexamples",
+  "version": "1.0.0",
+  "description": "Course of Mocha in Test Automation University",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasmanys88/mochaExamples.git"
+  },
+  "author": "Yasmany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasmanys88/mochaExamples/issues"
+  },
+  "homepage": "https://github.com/yasmanys88/mochaExamples#readme",
+  "dependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.3.0"
+  }
+}
